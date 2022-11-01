@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmairHussain123
+- 👋 Hi, I’m UmairHussain
 - 👀 I’m interested in Mobile App development 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Native
